@@ -1,0 +1,99 @@
+aid: khatabook
+name: Khatabook
+description: >-
+  Khatabook is a Bengaluru, India-based fintech company building a mobile-first
+  digital ledger ("bahi khata") and business management platform for India's
+  6.3 crore-strong MSME sector. Founded in 2018 by Ravish Naresh, Vaibhav
+  Kalpe, Dhanesh Kumar, and Jaideep Poonia, its flagship Khatabook Android
+  app lets shopkeepers and small merchants record credit transactions
+  ("udhaar"), send free WhatsApp/SMS payment reminders, collect payments via
+  UPI and QR codes, and generate ledger statements — replacing the paper
+  notebook ("khata") historically used across Indian retail. The app has been
+  downloaded over 50 million times and is offered in 13+ Indian languages.
+  Khatabook's portfolio also includes Cashbook (cash-in/cash-out tracking),
+  Pagarkhata/Pagarbook (staff attendance and salary management), Biz Analyst
+  (Tally mobility for accountants, acquired in 2021 for ~$10M), and a suite
+  of GST, EMI, income tax, payroll, and loan calculators. The company has
+  raised roughly $190M across seed through Series C from Sequoia Capital,
+  Tencent, DST Global, GGV Capital, Y Combinator, B Capital, Moore Strategic
+  Ventures, and angels including MS Dhoni, valuing it around $600M. Khatabook
+  monetizes via SMB lending tie-ups, premium business tools, and adjacent
+  fintech distribution. The Khatabook GitHub organization (verified, owns
+  khatabook.com) exists but has no public repositories, and the company does
+  not publish a public developer API, SDK, OpenAPI spec, or partner program
+  — its surface is a consumer/SMB mobile app rather than a developer platform.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fintech
+  - Digital Ledger
+  - Bahi Khata
+  - Bookkeeping
+  - Accounting
+  - MSME
+  - SMB
+  - India
+  - UPI
+  - QR Payments
+  - Payment Reminders
+  - Cashbook
+  - Pagarbook
+  - Biz Analyst
+  - Tally Mobility
+  - Staff Management
+  - GST
+  - Calculators
+  - Consumer App
+url: https://raw.githubusercontent.com/api-evangelist/khatabook/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://khatabook.com
+  - type: About
+    url: https://khatabook.com/about
+  - type: Blog
+    url: https://khatabook.com/blog/
+  - type: Cashbook
+    url: https://cashbook.in
+  - type: BizAnalyst
+    url: https://www.bizanalyst.in
+  - type: Pagarkhata
+    url: https://khatabook.com/pagarkhata
+  - type: Calculators
+    url: https://khatabook.com/calculators
+  - type: GstCalculator
+    url: https://khatabook.com/calculators/gst-calculator
+  - type: HsnCodeFinder
+    url: https://khatabook.com/hsn-code-finder
+  - type: GooglePlay
+    url: https://play.google.com/store/apps/details?id=com.khatabook.cashbook
+  - type: AppStore
+    url: https://apps.apple.com/in/app/khatabook-credit-ledger-book/id6633420817
+  - type: GitHub
+    url: https://github.com/khatabook
+  - type: Careers
+    url: https://khatabook.com/careers
+  - type: Contact
+    url: https://khatabook.com/contact-us
+  - type: PrivacyPolicy
+    url: https://khatabook.com/privacy-policy
+  - type: TermsOfService
+    url: https://khatabook.com/terms-and-conditions
+  - type: Twitter
+    url: https://twitter.com/khatabookapp
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/khatabook
+  - type: Facebook
+    url: https://www.facebook.com/khatabookapp
+  - type: YouTube
+    url: https://www.youtube.com/@KhatabookOfficial
+  - type: Instagram
+    url: https://www.instagram.com/khatabookofficial
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
