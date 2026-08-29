@@ -23,6 +23,17 @@ description: >-
   not publish a public developer API, SDK, OpenAPI spec, or partner program
   — its surface is a consumer/SMB mobile app rather than a developer platform.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: approval
